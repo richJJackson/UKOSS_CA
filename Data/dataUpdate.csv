@@ -1,0 +1,394 @@
+﻿ParticipantID,Ideal outcome,Simplified outcome,Gestation at PPROM,Date of PPROM,Gestation at birth,Gest at steroids,Date of prophylactic antibiotics,Gest at prophylactic antibiotics,ProphylacticAntibiotics,ProphAntiWithin2daysEPPROMDiag,Maternal sepsis yes/no,M_SEPSIS_DATE_E1_C1,OccurtoMatSepsis (days),Excluded,MULT_PREG_E1_C1 (also exlcude at the moment),OUT_MANAGE_E1_C1,EPPROM_DISCH_E1_C1,Gestation at outpatient management
+EPR_372,Livebirth with unknown discharge status,Livebirth,22.71,14/08/2020,23.14,,15/08/2020,22.86,1,1,,,,,0,0,,
+EPR_541,Livebirth with hospital discharge,Livebirth,21.14,01/08/2020,32.71,32.29,02/08/2020,21.29,1,1,0,,,,0,1,04/08/2020,21.57
+EPR_121,Livebirth with hospital discharge,Livebirth,20.86,23/11/2019,35.71,,23/11/2019,20.86,1,1,0,,,,0,1,26/11/2019,21.29
+EPR_291,Stillbirth 22+0 or greater,Stillbirth,21.57,19/05/2020,23.43,22.00,,,,0,0,,,,0,0,,
+EPR_216,Livebirth with hospital discharge,Livebirth,22.00,03/04/2020,27.86,27.86,03/04/2020,22.00,1,1,0,,,,0,1,04/04/2020,22.14
+EPR_100,Livebirth with hospital discharge,Livebirth,17.00,14/06/2019,37.00,26.71,12/07/2019,21.00,1,1,0,,,,0,1,13/07/2019,21.14
+EPR_491,Stillbirth 22+0 or greater,Stillbirth,22.00,17/02/2021,25.29,24.71,17/02/2021,22.00,1,1,0,,,,0,1,19/02/2021,22.29
+EPR_017,Stillbirth 22+0 or greater,Stillbirth,20.14,01/09/2019,22.14,,06/09/2019,20.86,1,1,0,,,,0,0,,
+EPR_521,Livebirth with hospital discharge,Livebirth,20.00,31/01/2021,37.00,,31/01/2021,20.00,1,1,0,,,,0,1,02/02/2021,20.29
+EPR_335,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.57,19/05/2020,20.57,,,,,0,0,,,,0,0,,
+EPR_367,Stillbirth 22+0 or greater,Stillbirth,18.57,26/08/2020,26.43,24.29,26/08/2020,18.57,1,1,0,,,,0,1,26/08/2020,18.57
+EPR_354,Livebirth with hospital discharge,Livebirth,20.00,14/08/2020,27.43,24.57,14/08/2020,20.00,1,1,0,,,,1,1,19/08/2020,20.71
+EPR_276,Livebirth with hospital discharge,Livebirth,20.57,28/05/2020,27.71,23.43,28/05/2020,20.57,1,1,0,,,,1,1,01/06/2020,21.14
+EPR_303,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,16.14,25/10/2020,16.14,,,,,0,0,,,,0,0,,
+EPR_538,Livebirth with hospital discharge,Livebirth,19.14,20/04/2020,35.71,35.43,25/04/2020,19.86,1,1,0,,,,0,1,25/04/2020,19.86
+EPR_504,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,21.86,22/02/2021,.,,,,,0,,,,,0,0,,
+EPR_499,Livebirth with hospital discharge,Livebirth,19.71,27/01/2021,26.00,22.14,03/02/2021,20.71,1,1,0,,,,0,1,16/02/2021,22.57
+EPR_014,Livebirth over 22 weeks with death before hospital discharge,Livebirth,20.14,12/09/2019,27.00,22.86,13/09/2019,20.29,1,1,0,,,,1,1,16/09/2019,20.71
+EPR_440,Stillbirth 22+0 or greater,Stillbirth,20.71,13/09/2020,22.29,22.29,13/09/2020,20.71,1,1,0,,,,0,0,,
+EPR_009,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.43,20/09/2019,19.00,,20/09/2019,70.57,1,1,0,,,,0,0,,
+EPR_374,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.43,03/05/2020,18.43,,03/05/2020,18.43,1,1,0,,,,0,0,,
+EPR_310,Livebirth with hospital discharge,Livebirth,22.00,26/06/2020,28.29,27.29,26/06/2020,22.00,1,1,0,,,,0,1,28/06/2020,22.29
+EPR_471,Livebirth with unknown discharge status,Livebirth,16.00,25/12/2020,27.86,24.00,.,,1,0,0,,,,1,1,,
+EPR_083,Livebirth over 22 weeks with death before hospital discharge,Livebirth,22.43,06/11/2019,22.86,22.71,07/11/2019,22.57,1,1,0,,,,0,0,,
+EPR_369,Stillbirth 22+0 or greater,Stillbirth,21.29,13/07/2020,23.14,23.00,11/07/2020,21.00,1,1,0,,,,0,0,,
+EPR_205,Stillbirth 22+0 or greater,Stillbirth,22.71,13/03/2020,23.29,,13/03/2020,22.71,1,1,,,,,0,0,,
+EPR_032,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,21.14,19/09/2019,21.29,,19/09/2019,21.14,1,1,0,,,,0,0,,
+EPR_477,Livebirth with hospital discharge,Livebirth,20.00,10/01/2021,36.71,,11/01/2021,20.14,1,1,0,,,,0,1,12/01/2021,20.29
+EPR_306,Livebirth with hospital discharge,Livebirth,22.00,28/06/2020,34.29,33.71,28/06/2020,22.00,1,1,1,21/09/2020,85,,0,1,02/07/2020,22.57
+EPR_143,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.43,28/12/2019,18.57,,,,,0,0,,,,0,0,,
+EPR_363,Livebirth with hospital discharge,Livebirth,19.57,04/09/2020,28.71,,.,,1,0,,,,,0,1,08/09/2020,20.14
+EPR_329,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,21.29,17/07/2020,21.43,,17/07/2020,21.29,,0,1,18/07/2020,1,,0,0,,
+EPR_093,Unknown outcome,Unknown outcome,20.43,20/10/2019,.,23.00,20/10/2019,20.43,1,1,0,,,1,0,1,22/10/2019,20.71
+EPR_263,Livebirth over 22 weeks with death before hospital discharge,Livebirth,18.43,05/05/2020,29.43,24.14,05/05/2020,18.43,1,1,0,,,,0,1,07/05/2020,18.71
+EPR_527,Stillbirth 22+0 or greater,Stillbirth,22.71,24/01/2021,22.71,,,,,0,0,,,,0,0,,
+EPR_107,Livebirth over 22 weeks with death before hospital discharge,Livebirth,21.14,07/11/2019,23.14,22.86,07/11/2019,21.14,1,1,0,,,,0,0,,
+EPR_420,Livebirth with hospital discharge,Livebirth,18.29,14/11/2019,36.71,23.00,25/11/2019,19.86,1,2,0,,,,0,1,16/11/2019,18.57
+EPR_016,Livebirth with hospital discharge,Livebirth,19.14,26/07/2019,28.00,26.00,27/07/2019,19.29,1,1,0,,,,1,1,29/07/2019,19.57
+EPR_493,Livebirth over 22 weeks with death before hospital discharge,Livebirth,19.86,03/02/2021,26.57,26.57,12/03/2021,25.14,1,2,0,,,,0,1,03/02/2021,19.86
+EPR_049,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.00,16/10/2019,18.43,,,,,0,0,,,,0,0,,
+EPR_347,Livebirth with hospital discharge,Livebirth,21.71,19/07/2020,33.57,23.43,20/07/2020,21.86,1,1,0,,,,1,1,,
+EPR_438,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.57,28/10/2020,19.71,,,,,0,0,,,,0,1,29/10/2020,18.71
+EPR_529,Livebirth over 22 weeks with death before hospital discharge,Livebirth,21.43,03/02/2021,23.29,,03/02/2021,21.43,1,1,0,,,,0,0,,
+EPR_256,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.00,03/04/2020,20.14,,,,,0,0,,,,0,0,,
+EPR_426,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,21.14,18/11/2020,21.29,,17/11/2020,21.00,1,1,0,,,,0,0,,
+EPR_433,Stillbirth 22+0 or greater,Stillbirth,21.57,13/02/2020,22.29,,14/02/2020,21.71,1,1,0,,,,0,0,,
+EPR_408,Livebirth over 22 weeks with death before hospital discharge,Livebirth,19.00,11/11/2020,29.71,,11/11/2020,19.00,1,1,0,,,,1,1,13/11/2020,19.29
+EPR_138,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.57,22/12/2019,20.86,,,,,0,0,,,,0,0,,
+EPR_124,Livebirth over 22 weeks with death before hospital discharge,Livebirth,21.43,22/12/2019,22.71,22.00,22/12/2019,21.43,1,1,0,,,,0,1,24/12/2019,21.71
+EPR_004,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.14,20/09/2019,20.57,,,,,0,1,20/09/2019,0,,1,0,,
+EPR_180,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.71,10/02/2020,19.71,,,,,0,0,,,,0,0,,
+EPR_509,Stillbirth 22+0 or greater,Stillbirth,21.43,10/02/2021,23.57,,,,,0,0,,,,0,1,15/02/2021,22.14
+EPR_191,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.00,17/01/2020,17.00,,,,,0,0,,,,0,0,,
+EPR_155,Livebirth over 22 weeks with death before hospital discharge,Livebirth,16.14,30/01/2020,25.57,,31/01/2020,16.29,1,1,0,,,,1,1,03/02/2020,16.71
+EPR_460,Livebirth over 22 weeks with death before hospital discharge,Livebirth,21.00,17/10/2020,28.86,25.57,19/10/2020,21.29,1,1,0,,,,0,1,19/10/2020,21.29
+EPR_371,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.57,25/02/2020,20.71,,25/02/2020,19.57,1,1,0,,,,0,1,28/02/2020,20.00
+EPR_023,Livebirth with hospital discharge,Livebirth,21.57,03/10/2019,28.57,24.00,,,,0,0,,,,0,1,06/10/2019,22.00
+EPR_396,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,16.29,02/07/2020,17.00,,04/07/2020,16.57,1,1,0,,,,0,1,06/07/2020,16.86
+EPR_165,Livebirth with hospital discharge,Livebirth,19.14,08/01/2020,26.71,23.14,10/01/2020,19.43,1,1,0,,,,0,1,10/01/2020,19.43
+EPR_393,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.43,27/10/2020,18.57,,27/10/2020,18.43,1,1,1,28/10/2020,1,,0,0,,
+EPR_305,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.00,11/05/2020,17.14,,,,,0,,,,,0,0,,
+EPR_397,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.14,07/05/2020,19.57,,07/05/2020,19.14,1,1,0,,,,0,1,07/05/2020,19.14
+EPR_424,Livebirth over 22 weeks with death before hospital discharge,Livebirth,21.14,12/07/2020,30.57,26.86,13/07/2020,21.29,1,1,0,,,,0,1,17/07/2020,21.86
+EPR_388,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.71,28/10/2020,19.14,,28/10/2020,18.71,1,1,0,,,,0,0,,
+EPR_383,Livebirth over 22 weeks with death before hospital discharge,Livebirth,19.71,20/09/2020,26.00,24.43,,,,0,0,,,,0,1,14/10/2020,23.14
+EPR_018,Livebirth with hospital discharge,Livebirth,22.43,24/08/2019,25.43,24.00,24/08/2019,22.43,1,1,0,,,,1,0,,
+EPR_118,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,16.57,26/09/2019,16.57,,,,,0,0,,,,0,0,,
+EPR_379,Livebirth with unknown discharge status,Livebirth,19.00,04/10/2020,26.57,26.29,04/10/2020,19.00,1,1,0,,,,0,1,04/10/2020,19.00
+EPR_240,Livebirth with unknown discharge status,Livebirth,22.29,24/04/2020,28.00,24.00,15/05/2020,25.29,1,2,0,,,,0,1,30/04/2020,23.14
+EPR_085,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.43,23/11/2019,20.14,,,,,0,0,,,,0,1,23/11/2019,19.43
+EPR_300,Stillbirth 22+0 or greater,Stillbirth,21.29,19/06/2020,22.29,22.29,19/06/2020,21.29,1,1,0,,,,0,1,19/06/2020,21.29
+EPR_368,Livebirth with hospital discharge,Livebirth,21.57,14/09/2020,23.57,21.86,22/09/2020,22.71,1,1,0,,,,0,0,,
+EPR_281,Livebirth with unknown discharge status,Livebirth,18.14,24/03/2020,29.71,24.14,,,,0,0,,,,1,1,15/05/2020,25.57
+EPR_247,Stillbirth 22+0 or greater,Stillbirth,20.14,07/04/2020,23.14,,16/04/2020,21.43,1,1,0,,,,0,1,16/04/2020,21.43
+EPR_271,Stillbirth 22+0 or greater,Stillbirth,21.57,19/05/2020,23.43,22.14,,,,0,0,,,,0,0,,
+EPR_353,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.71,12/08/2020,20.57,,13/08/2020,19.86,1,1,0,,,,0,1,15/08/2020,20.14
+EPR_510,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,16.43,04/01/2021,16.57,,05/01/2021,16.57,1,1,0,,,,0,0,,
+EPR_127,Stillbirth 22+0 or greater,Stillbirth,22.57,19/12/2019,22.57,,,,,0,0,,,,1,0,,
+EPR_398,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.43,20/06/2020,17.43,,,,,0,0,,,,0,0,,
+EPR_210,Livebirth with hospital discharge,Livebirth,18.29,14/03/2020,29.57,24.00,22/03/2020,19.43,1,1,0,,,,0,1,22/03/2020,19.43
+EPR_346,Livebirth with unknown discharge status,Livebirth,21.71,06/08/2020,23.43,22.29,07/08/2020,21.86,1,1,0,,,,0,0,,
+EPR_443,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.29,08/12/2020,19.29,,,,,0,0,,,,0,0,,
+EPR_212,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.14,30/03/2020,18.71,,30/03/2020,17.14,1,1,0,,,,0,1,30/03/2020,17.14
+EPR_046,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.14,13/10/2019,20.14,,13/10/2019,20.14,1,1,0,,,,0,0,,
+EPR_061,Livebirth over 22 weeks with death before hospital discharge,Livebirth,19.00,11/08/2019,27.57,25.29,24/09/2019,25.29,1,2,1,08/10/2019,58,,0,1,19/08/2019,20.14
+EPR_259,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.43,20/11/2019,17.71,,,,,0,1,20/11/2019,0,,1,0,,
+EPR_330,Livebirth with hospital discharge,Livebirth,18.71,06/06/2020,28.43,28.43,10/06/2020,19.29,1,1,0,,,,0,1,09/06/2020,19.14
+EPR_151,Stillbirth 22+0 or greater,Stillbirth,16.14,13/01/2020,22.86,,13/01/2020,16.14,1,1,0,,,,1,1,13/01/2020,16.14
+EPR_178,Livebirth over 22 weeks with death before hospital discharge,Livebirth,17.86,21/02/2020,26.14,22.14,21/02/2020,17.86,1,1,0,,,,0,1,21/02/2020,17.86
+EPR_034,Livebirth over 22 weeks with death before hospital discharge,Livebirth,21.86,23/09/2019,22.29,,23/09/2019,21.86,1,1,0,,,,1,1,,
+EPR_174,Unknown outcome,Unknown outcome,17.86,19/02/2020,.,,19/02/2020,17.86,1,1,,,,1,0,1,24/02/2020,18.57
+EPR_304,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.29,27/10/2020,20.43,,,,,0,0,,,,0,0,,
+EPR_066,Livebirth with hospital discharge,Livebirth,17.71,04/09/2019,29.00,23.29,04/09/2019,17.71,1,1,0,,,,0,1,09/09/2019,18.43
+EPR_005,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.71,30/09/2019,20.86,,,,,0,0,,,,0,0,,
+EPR_449,Livebirth with hospital discharge,Livebirth,19.29,27/04/2020,28.57,,.,,1,0,0,,,,0,1,27/04/2020,19.29
+EPR_311,Livebirth over 22 weeks with death before hospital discharge,Livebirth,16.00,18/06/2020,28.43,23.86,18/06/2020,16.00,1,1,0,,,,0,1,19/06/2020,16.14
+EPR_328,Livebirth with hospital discharge,Livebirth,22.14,06/07/2020,30.14,29.57,06/07/2020,22.14,1,1,0,,,,0,1,08/07/2020,22.43
+EPR_418,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.00,21/06/2020,19.29,,,,,0,1,29/06/2020,8,,0,1,26/06/2020,18.71
+EPR_241,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.00,02/04/2020,18.29,,,,,0,0,,,,0,0,,
+EPR_411,Livebirth with unknown discharge status,Livebirth,17.00,18/10/2020,29.14,,.,,1,0,,,,,0,,,
+EPR_288,Stillbirth 22+0 or greater,Stillbirth,17.00,16/04/2020,23.00,23.00,16/04/2020,17.00,1,1,0,,,,0,1,16/04/2020,17.00
+EPR_366,Livebirth with hospital discharge,Livebirth,20.57,31/07/2020,27.14,22.71,05/08/2020,21.29,1,2,0,,,,0,0,,
+EPR_166,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.14,24/01/2020,19.57,,24/01/2020,19.14,1,1,0,,,,0,0,,
+EPR_141,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.00,28/12/2019,20.29,,28/12/2019,20.00,1,1,0,,,,0,0,,
+EPR_486,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.00,15/02/2021,21.29,,,,,0,0,,,,0,0,,
+EPR_273,Livebirth with hospital discharge,Livebirth,22.71,22/05/2020,25.29,23.29,23/05/2020,22.86,1,1,1,08/06/2020,17,,0,0,,
+EPR_492,Stillbirth 22+0 or greater,Stillbirth,22.57,26/01/2021,23.29,,26/01/2021,22.57,1,1,0,,,,0,0,,
+EPR_270,Livebirth with hospital discharge,Livebirth,22.57,12/04/2020,28.57,22.71,14/04/2020,22.86,1,2,0,,,,0,1,15/04/2020,23.00
+EPR_135,Livebirth with unknown discharge status,Livebirth,22.86,22/11/2019,27.57,22.86,22/11/2019,22.86,1,1,0,,,,1,1,26/11/2019,23.43
+EPR_395,Livebirth with hospital discharge,Livebirth,20.14,28/04/2020,26.43,,28/04/2020,20.14,1,1,0,,,,0,1,28/04/2020,20.14
+EPR_253,Livebirth over 22 weeks with death before hospital discharge,Livebirth,19.00,22/02/2020,25.00,24.29,23/02/2020,19.14,1,1,0,,,,0,1,24/02/2020,19.29
+EPR_033,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.43,21/09/2019,21.57,,22/09/2019,19.57,1,1,0,,,,0,0,,
+EPR_298,Livebirth with unknown discharge status,Livebirth,19.00,25/04/2020,28.57,23.57,,,,0,0,,,,0,1,22/05/2020,22.86
+EPR_186,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,-6245.86,30/01/2020,20.86,,30/01/2020,19.86,1,1,0,,,,0,1,01/02/2020,20.14
+EPR_337,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.57,14/06/2020,18.71,,,,,0,0,,,,0,0,,
+EPR_540,Livebirth with hospital discharge,Livebirth,22.71,06/11/2020,35.71,22.86,06/11/2020,22.71,1,1,0,,,,0,1,10/11/2020,23.29
+EPR_227,Livebirth over 22 weeks with death before hospital discharge,Livebirth,18.14,14/02/2020,32.00,24.00,14/02/2020,18.14,1,1,0,,,,0,1,02/03/2020,20.57
+EPR_223,Livebirth over 22 weeks with death before hospital discharge,Livebirth,18.86,29/03/2020,25.43,23.43,29/03/2020,18.86,1,1,0,,,,0,1,29/03/2020,18.86
+EPR_233,Livebirth over 22 weeks with death before hospital discharge,Livebirth,21.71,14/04/2020,23.43,22.86,14/04/2020,21.71,1,1,1,08/04/2020,0,,0,0,,
+EPR_220,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,21.71,06/04/2020,21.86,,,,,0,0,,,,0,0,,
+EPR_459,Livebirth over 22 weeks with death before hospital discharge,Livebirth,22.86,09/01/2021,24.14,,11/01/2021,23.14,1,2,1,13/01/2021,4,,0,0,,
+EPR_129,Livebirth with hospital discharge,Livebirth,20.57,20/10/2019,30.43,30.29,20/10/2019,20.57,1,1,0,,,,0,1,22/10/2019,20.86
+EPR_161,Livebirth with hospital discharge,Livebirth,20.43,21/10/2019,33.71,29.71,28/10/2019,21.43,1,1,0,,,,0,1,28/10/2019,21.43
+EPR_206,Livebirth with hospital discharge,Livebirth,18.00,05/02/2020,24.14,23.57,,,,0,0,,,,1,1,06/03/2020,22.29
+EPR_108,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,21.14,14/11/2019,21.86,,,,,0,1,16/11/2019,2,,0,0,,
+EPR_204,Livebirth with hospital discharge,Livebirth,22.00,05/02/2020,30.14,,11/02/2020,22.86,1,1,0,,,,0,1,11/02/2020,22.86
+EPR_059,Livebirth with hospital discharge,Livebirth,17.71,30/06/2019,34.29,34.00,16/07/2019,20.00,1,1,0,,,,0,1,16/07/2019,20.00
+EPR_090,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.43,05/11/2019,20.86,,06/11/2019,19.57,1,1,1,15/11/2019,10,,0,1,08/11/2019,19.86
+EPR_184,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,16.57,22/02/2020,16.57,,22/02/2020,16.57,,0,0,,,,0,0,,
+EPR_079,Livebirth over 22 weeks with death before hospital discharge,Livebirth,19.71,05/09/2019,25.71,25.71,05/09/2019,19.71,1,1,0,,,,1,1,05/09/2019,19.71
+EPR_195,Livebirth with hospital discharge,Livebirth,21.43,05/12/2019,30.29,25.43,05/12/2019,21.43,1,1,0,,,,0,1,09/12/2019,22.00
+EPR_148,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.00,28/01/2020,18.43,,,,,0,1,28/01/2020,0,,0,0,,
+EPR_376,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.86,27/08/2020,21.71,,27/08/2020,19.86,1,1,0,,,,0,1,04/09/2020,21.00
+EPR_192,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.43,16/10/2020,18.43,,16/10/2020,17.43,1,1,0,,,,0,1,23/10/2020,18.43
+EPR_190,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.29,06/01/2020,17.57,,,,,0,0,,,,0,0,,
+EPR_358,Livebirth with unknown discharge status,Livebirth,21.71,26/09/2020,22.57,22.14,,,,0,0,,,,0,0,,
+EPR_364,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.14,23/09/2020,18.14,,27/09/2020,17.71,1,1,0,,,,0,1,23/09/2020,17.14
+EPR_526,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.86,07/01/2021,19.57,,,,,0,0,,,,0,0,,
+EPR_006,Livebirth with unknown discharge status,Livebirth,18.29,25/08/2019,29.86,27.57,06/09/2019,20.00,1,2,0,,,,0,1,30/08/2019,19.00
+EPR_228,Livebirth over 22 weeks with death before hospital discharge,Livebirth,16.71,10/02/2020,22.29,,,,,0,0,,,,0,1,24/02/2020,18.71
+EPR_448,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.14,09/03/2020,20.29,,07/03/2020,19.86,,1,,,,,0,,,
+EPR_450,Stillbirth 22+0 or greater,Stillbirth,21.86,01/01/2021,22.14,22.29,01/01/2021,21.86,1,1,1,09/01/2021,8,,1,0,,
+EPR_175,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.14,07/03/2020,20.43,,14/03/2020,20.14,1,1,0,,,,0,1,13/03/2020,20.00
+EPR_503,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,21.00,16/02/2021,21.00,,,,,0,,,,,0,0,,
+EPR_467,Livebirth with hospital discharge,Livebirth,21.14,26/08/2019,30.29,30.29,27/08/2019,21.29,1,1,0,,,,0,1,16/10/2019,28.43
+EPR_365,Livebirth with hospital discharge,Livebirth,20.71,04/09/2020,35.57,20.86,05/09/2020,20.86,1,1,0,,,,0,0,,
+EPR_387,Livebirth with unknown discharge status,Livebirth,21.14,04/09/2020,29.00,28.14,23/10/2020,28.14,1,1,,,,,0,1,23/10/2020,28.14
+EPR_481,Stillbirth 22+0 or greater,Stillbirth,22.29,29/12/2020,25.86,22.29,30/12/2020,22.43,1,1,,,,,0,,,
+EPR_185,Livebirth with unknown discharge status,Livebirth,22.29,12/02/2020,.,22.71,13/02/2020,22.43,1,1,,,,,0,0,,
+EPR_269,Stillbirth 22+0 or greater,Stillbirth,22.43,22/05/2020,22.43,,,,,0,0,,,,0,0,,
+EPR_144,Livebirth with hospital discharge,Livebirth,16.86,01/01/2020,28.29,28.00,01/01/2020,16.86,1,1,0,,,,0,1,02/01/2020,17.00
+EPR_551,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.43,28/02/2020,19.57,,28/02/2020,19.43,1,1,0,,,,0,0,,
+EPR_478,Stillbirth 22+0 or greater,Stillbirth,19.29,08/01/2021,23.57,,09/01/2021,19.43,1,1,0,,,,0,1,15/01/2021,20.29
+EPR_409,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.43,04/11/2020,19.86,,04/11/2020,18.43,1,1,,,,,0,0,,
+EPR_167,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.57,07/01/2020,17.86,,08/01/2020,17.71,1,1,0,,,,0,0,,
+EPR_390,Livebirth over 22 weeks with death before hospital discharge,Livebirth,21.71,14/10/2020,26.71,22.14,14/10/2020,21.71,1,1,0,,,,0,1,14/10/2020,21.71
+EPR_194,Stillbirth 22+0 or greater,Stillbirth,22.86,10/11/2019,22.86,22.86,,,,0,1,09/11/2019,0,,1,0,,
+EPR_290,Livebirth with hospital discharge,Livebirth,20.57,12/06/2020,22.43,22.14,16/06/2020,21.14,1,1,0,,,,0,1,18/06/2020,21.43
+EPR_489,Stillbirth 22+0 or greater,Stillbirth,18.57,18/01/2020,23.57,22.71,15/02/2020,22.57,1,1,0,,,,0,0,,
+EPR_515,Livebirth over 22 weeks with death before hospital discharge,Livebirth,22.00,25/02/2021,23.00,,25/02/2021,22.00,1,1,0,,,,0,1,27/02/2021,22.29
+EPR_415,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.29,27/05/2020,20.86,,,,,0,1,31/05/2020,4,,0,0,,
+EPR_296,Livebirth with unknown discharge status,Livebirth,21.71,12/05/2020,26.00,24.57,13/05/2020,21.86,1,1,0,,,,0,1,13/05/2020,21.86
+EPR_156,Livebirth over 22 weeks with death before hospital discharge,Livebirth,16.00,16/12/2019,24.14,23.29,23/01/2020,21.43,1,1,0,,,,0,0,,
+EPR_292,Livebirth with hospital discharge,Livebirth,21.71,13/05/2020,28.57,,15/05/2020,22.00,1,1,0,,,,0,1,15/05/2020,22.00
+EPR_062,Livebirth with hospital discharge,Livebirth,18.57,18/10/2019,30.14,23.00,16/12/2019,27.00,1,2,0,,,,0,0,,
+EPR_429,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.14,22/06/2020,18.14,,,,,0,,,,,0,,,
+EPR_377,Livebirth with hospital discharge,Livebirth,20.43,17/07/2020,26.86,26.86,,,,0,1,31/08/2020,45,,0,1,23/07/2020,21.29
+EPR_548,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.14,06/11/2019,20.29,,06/11/2019,20.14,1,1,0,,,,0,0,,
+EPR_356,Stillbirth 22+0 or greater,Stillbirth,22.71,17/08/2020,22.71,,,,,0,0,,,,0,0,,
+EPR_549,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.57,18/12/2019,21.57,,23/12/2019,21.29,1,1,0,,,,0,0,,
+EPR_048,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.29,05/10/2019,21.29,,,,,0,,,,,0,0,,
+EPR_106,Stillbirth 22+0 or greater,Stillbirth,21.43,25/10/2019,23.57,21.86,,,,0,0,,,,0,0,,
+EPR_404,Livebirth over 22 weeks with death before hospital discharge,Livebirth,20.43,26/10/2020,24.57,23.86,21/11/2020,24.14,1,0,0,,,,0,1,26/10/2020,20.43
+EPR_225,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.14,29/04/2020,17.29,,29/04/2020,17.14,1,1,0,,,,0,0,,
+EPR_015,Stillbirth 22+0 or greater,Stillbirth,17.71,09/09/2019,22.14,,,,,0,0,,,,0,1,11/09/2019,18.00
+EPR_246,Livebirth with hospital discharge,Livebirth,16.43,27/03/2020,34.43,29.86,27/03/2020,16.43,1,1,0,,,,0,1,28/03/2020,16.57
+EPR_160,Livebirth over 22 weeks with death before hospital discharge,Livebirth,22.57,10/01/2020,23.14,,10/01/2020,22.57,1,1,0,,,,0,0,,
+EPR_505,Livebirth with unknown discharge status,Livebirth,22.57,09/02/2021,22.86,22.71,10/02/2021,22.71,1,1,0,,,,0,0,,
+EPR_384,Livebirth with hospital discharge,Livebirth,20.43,03/09/2020,36.14,23.86,06/09/2020,20.86,1,1,0,,,,0,0,,
+EPR_525,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,16.00,14/09/2020,19.71,,,,,0,0,,,,0,1,16/09/2020,16.29
+EPR_140,Livebirth with unknown discharge status,Livebirth,16.86,13/10/2019,27.86,24.14,14/10/2019,17.00,1,1,0,,,,0,1,14/10/2019,17.00
+EPR_513,Livebirth with hospital discharge,Livebirth,19.00,17/11/2020,31.86,23.14,24/11/2020,20.00,1,1,0,,,,0,1,26/11/2020,20.29
+EPR_294,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.29,10/06/2020,19.29,,,,,0,0,,,,0,0,,
+EPR_373,Livebirth over 22 weeks with death before hospital discharge,Livebirth,18.14,24/01/2020,29.14,27.14,,,,0,0,,,,0,1,03/02/2020,19.57
+EPR_050,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,-6234.86,26/10/2019,17.14,,,,,0,0,,,,0,0,,
+EPR_031,Livebirth with unknown discharge status,Livebirth,17.00,18/08/2019,27.86,23.71,03/10/2019,23.57,1,2,0,,,,0,1,01/10/2019,23.29
+EPR_370,Unknown outcome,Unknown outcome,17.43,15/07/2020,.,24.43,,,,0,,,,1,0,1,03/09/2020,24.57
+EPR_198,Stillbirth 22+0 or greater,Stillbirth,22.86,29/02/2020,23.29,22.29,,,,0,0,,,,0,0,,
+EPR_035,Stillbirth 22+0 or greater,Stillbirth,19.86,21/08/2019,22.86,,22/08/2019,20.00,1,1,0,,,,0,1,23/08/2019,20.14
+EPR_260,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.00,18/04/2020,17.43,,18/04/2020,17.00,1,1,0,,,,0,1,18/04/2020,17.00
+EPR_334,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.00,31/07/2020,17.43,,01/08/2020,17.14,1,1,0,,,,0,1,02/08/2020,17.29
+EPR_045,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.14,12/10/2019,20.29,,12/10/2019,20.14,1,1,0,,,,0,0,,
+EPR_229,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.86,18/02/2020,19.71,,18/02/2020,17.86,1,1,0,,,,0,0,,
+EPR_081,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,16.00,05/10/2019,16.86,,11/10/2019,16.86,1,2,0,,,,0,1,06/10/2019,16.14
+EPR_047,Livebirth with hospital discharge,Livebirth,21.86,15/10/2019,31.71,24.00,,,,0,0,,,,0,1,02/11/2019,24.43
+EPR_500,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.14,09/02/2021,18.43,,,,,0,0,,,,1,1,10/02/2021,18.29
+EPR_439,Stillbirth 22+0 or greater,Stillbirth,22.57,16/11/2020,.,,,,,0,0,,,,0,0,,
+EPR_341,Livebirth with hospital discharge,Livebirth,21.86,10/04/2020,25.71,,10/04/2020,21.86,1,1,0,,,,0,1,11/04/2020,22.00
+EPR_111,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.14,10/11/2019,19.57,,,,,0,0,,,,1,0,,
+EPR_202,Livebirth over 22 weeks with death before hospital discharge,Livebirth,22.86,19/03/2020,24.57,22.86,19/03/2020,22.86,1,1,0,,,,0,0,,
+EPR_117,Stillbirth 22+0 or greater,Stillbirth,18.29,22/08/2019,25.14,,,,,0,0,,,,0,0,,
+EPR_506,Stillbirth 22+0 or greater,Stillbirth,20.71,01/02/2021,23.71,23.00,15/02/2021,22.71,1,1,0,,,,0,1,15/02/2021,22.71
+EPR_078,Livebirth with hospital discharge,Livebirth,18.86,07/06/2019,37.57,,,,,0,0,,,,0,1,08/08/2019,27.71
+EPR_473,Livebirth with unknown discharge status,Livebirth,20.57,15/12/2020,26.57,26.29,16/12/2020,20.71,1,1,,,,,0,1,,
+EPR_136,Livebirth with hospital discharge,Livebirth,19.00,04/11/2019,25.86,23.00,10/12/2019,24.14,1,2,0,,,,0,1,05/11/2019,19.14
+EPR_067,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.29,19/10/2019,20.71,,20/10/2019,20.43,1,1,0,,,,0,0,,
+EPR_073,Unknown outcome,Unknown outcome,20.57,15/10/2019,.,,,,,0,,,,1,0,1,16/10/2019,20.71
+EPR_458,Livebirth over 22 weeks with death before hospital discharge,Livebirth,22.00,26/12/2020,22.14,22.00,26/12/2020,22.00,1,1,0,,,,0,0,,
+EPR_469,Livebirth with hospital discharge,Livebirth,19.14,05/10/2020,36.29,,,,,0,0,,,,0,1,05/10/2020,19.14
+EPR_193,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.29,16/10/2019,21.14,,15/10/2019,18.14,1,1,0,,,,0,1,21/10/2019,19.00
+EPR_131,Livebirth over 22 weeks with death before hospital discharge,Livebirth,21.29,11/12/2019,23.14,22.29,18/12/2019,22.29,1,1,0,,,,0,1,24/12/2019,23.14
+EPR_187,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.71,19/02/2020,20.00,,,,,0,0,,,,0,0,,
+EPR_421,Livebirth with hospital discharge,Livebirth,19.29,27/11/2019,29.43,23.00,30/11/2019,19.71,1,2,0,,,,1,1,01/12/2019,19.86
+EPR_530,Livebirth with unknown discharge status,Livebirth,21.71,28/01/2021,32.00,23.86,11/01/2021,19.29,1,2,0,,,,0,0,,
+EPR_497,Stillbirth 22+0 or greater,Stillbirth,21.43,27/02/2021,23.71,,28/02/2021,21.57,1,1,0,,,,0,1,04/03/2021,22.14
+EPR_242,Stillbirth 22+0 or greater,Stillbirth,18.00,24/08/2019,24.57,23.71,24/08/2019,18.00,1,1,1,24/08/2019,0,,0,1,29/08/2019,18.71
+EPR_381,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.71,05/02/2021,18.14,,,,,0,0,,,,0,0,,
+EPR_051,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.43,16/10/2019,19.86,,,,,0,,,,,0,1,16/10/2019,17.43
+EPR_422,Livebirth with hospital discharge,Livebirth,22.29,11/09/2020,31.14,22.86,15/09/2020,22.86,1,1,0,,,,0,1,19/09/2020,23.43
+EPR_063,Stillbirth 22+0 or greater,Stillbirth,20.86,23/10/2019,24.57,,23/10/2019,20.86,1,1,0,,,,0,0,,
+EPR_200,Stillbirth 22+0 or greater,Stillbirth,22.00,18/03/2020,22.14,,,,,0,0,,,,0,0,,
+EPR_359,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.00,04/09/2020,19.57,,04/09/2020,19.00,1,1,0,,,,0,0,,
+EPR_196,Livebirth with hospital discharge,Livebirth,18.14,01/11/2019,28.57,22.57,03/11/2019,18.43,1,1,0,,,,0,1,04/11/2019,18.57
+EPR_110,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,-6235.29,07/11/2019,18.86,,07/11/2019,18.43,1,1,0,,,,0,0,,
+EPR_057,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.14,23/10/2019,18.14,,,,,0,0,,,,0,0,,
+EPR_084,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.86,17/11/2019,21.14,,17/11/2019,20.86,1,1,1,18/11/2019,1,,0,0,,
+EPR_528,Stillbirth 22+0 or greater,Stillbirth,20.86,26/01/2021,22.43,,26/01/2021,20.86,1,1,0,,,,0,0,,
+EPR_116,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.57,17/10/2019,17.71,,,,,0,0,,,,1,1,21/10/2019,18.14
+EPR_150,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.14,12/01/2020,17.57,,12/01/2020,17.14,1,1,1,14/01/2020,2,,1,1,13/01/2020,17.29
+EPR_392,Livebirth with hospital discharge,Livebirth,19.43,15/08/2020,28.00,20.57,24/08/2020,20.71,1,1,0,,,,0,1,24/08/2020,20.71
+EPR_407,Livebirth with hospital discharge,Livebirth,16.86,17/10/2020,29.14,23.14,18/10/2020,17.00,1,1,0,,,,0,1,19/10/2020,17.14
+EPR_391,Stillbirth 22+0 or greater,Stillbirth,21.71,20/10/2020,22.14,,21/10/2020,21.86,1,1,0,,,,0,0,,
+EPR_088,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.43,16/10/2019,19.86,,16/10/2019,17.43,1,1,0,,,,0,1,16/10/2019,17.43
+EPR_416,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.14,20/08/2020,19.14,,,,,0,1,20/08/2020,0,,0,0,,
+EPR_126,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.14,14/12/2019,19.14,,,,,0,0,,,,0,0,,
+EPR_431,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,18.29,31/01/2020,18.29,,,,,0,,,,,1,,,
+EPR_133,Livebirth with hospital discharge,Livebirth,21.57,04/12/2019,22.29,22.14,04/12/2019,21.57,1,1,0,,,,0,0,,
+EPR_092,Stillbirth 22+0 or greater,Stillbirth,17.43,15/10/2019,23.00,22.71,,,,0,0,,,,0,1,21/10/2019,18.29
+EPR_170,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,16.57,26/12/2019,17.29,,27/12/2019,16.71,1,1,0,,,,0,1,26/12/2019,16.57
+EPR_082,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.86,11/11/2019,21.71,,06/11/2019,20.14,1,1,0,,,,0,1,09/11/2019,20.57
+EPR_237,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,21.00,25/04/2020,21.14,,25/04/2020,21.00,1,1,0,,,,0,0,,
+EPR_430,Livebirth with hospital discharge,Livebirth,21.29,12/01/2020,24.00,,12/01/2020,21.29,1,1,0,,,,0,1,13/01/2020,21.43
+EPR_289,Livebirth over 22 weeks with death before hospital discharge,Livebirth,20.86,03/06/2020,24.29,24.00,03/06/2020,20.86,1,1,0,,,,1,1,03/07/2020,25.14
+EPR_087,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.86,05/11/2019,21.14,,06/11/2019,21.00,1,1,1,06/11/2019,1,,0,0,,
+EPR_274,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,17.43,08/05/2020,17.43,,,,,0,1,08/05/2020,0,,0,0,,
+EPR_075,Livebirth with hospital discharge,Livebirth,22.29,21/10/2019,26.43,23.71,21/10/2019,22.29,1,1,0,,,,0,1,29/10/2019,23.43
+EPR_375,Stillbirth 22+0 or greater,Stillbirth,21.14,12/11/2020,25.43,,12/11/2020,21.14,1,1,0,,,,1,1,16/11/2020,21.71
+EPR_512,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.14,12/02/2021,20.71,,,,,0,0,,,,0,0,,
+EPR_361,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.86,25/09/2020,20.29,,25/09/2020,19.86,1,1,1,28/09/2020,3,,0,1,25/09/2020,19.86
+EPR_508,Livebirth over 22 weeks with death before hospital discharge,Livebirth,20.29,03/01/2021,27.57,25.43,03/01/2021,20.29,1,1,0,,,,0,1,05/01/2021,20.57
+EPR_380,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,19.57,24/06/2020,20.14,,25/06/2020,19.71,1,1,0,,,,0,0,,
+EPR_465,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.71,30/12/2020,20.86,,,,,0,0,,,,0,0,,
+EPR_028,Livebirth with hospital discharge,Livebirth,17.57,16/05/2019,36.57,33.71,17/05/2019,17.71,1,1,0,,,,0,1,18/05/2019,17.86
+EPR_222,Stillbirth 22+0 or greater,Stillbirth,21.00,29/04/2020,25.57,,30/04/2020,21.14,,0,1,24/05/2020,25,,0,0,,
+EPR_152,Livebirth with hospital discharge,Livebirth,18.71,26/12/2019,23.57,23.14,26/01/2020,23.14,1,1,0,,,,0,0,,
+EPR_435,Immediate termiation of pregnancy,TFMR,16.43,07/03/2020,16.43,,,,,0,0,,,,0,,,
+EPR_434,Immediate termiation of pregnancy,TFMR,19.57,27/02/2020,19.71,,,,,0,0,,,,0,,,
+EPR_517,Later termination of pregnancy,TFMR,18.71,18/01/2021,21.71,,18/01/2021,18.71,1,1,,,,,0,1,21/01/2021,19.14
+EPR_550,Later termination of pregnancy,TFMR,19.29,24/01/2020,19.57,,24/01/2020,19.29,1,1,0,,,,0,0,,
+EPR_036,Immediate termiation of pregnancy,TFMR,17.00,15/09/2019,17.14,,,,,0,,,,,0,,,
+EPR_215,Later termination of pregnancy,TFMR,18.86,24/02/2020,21.86,,26/02/2020,19.14,1,1,0,,,,0,1,26/02/2020,19.14
+EPR_466,Immediate termiation of pregnancy,TFMR,20.14,18/12/2020,20.29,,18/12/2020,20.14,1,1,,,,,0,,,
+EPR_312,Immediate termiation of pregnancy,TFMR,19.43,25/06/2020,19.71,,25/06/2020,19.43,1,1,,,,,0,,,
+EPR_402,Later termination of pregnancy,TFMR,20.14,15/11/2020,20.57,,15/11/2020,20.14,1,1,0,,,,0,0,,
+EPR_490,Immediate termiation of pregnancy,TFMR,20.57,23/02/2021,20.71,,,,,0,0,,,,0,,,
+EPR_403,Immediate termiation of pregnancy,TFMR,18.86,02/11/2020,19.29,,,,,0,0,,,,0,,,
+EPR_101,Immediate termiation of pregnancy,TFMR,18.00,23/10/2019,21.43,,,,,0,0,,,,0,,,
+EPR_114,Later termination of pregnancy,TFMR,17.57,27/10/2019,24.14,,31/10/2019,18.14,1,1,,,,,0,1,31/10/2019,18.14
+EPR_020,Later termination of pregnancy,TFMR,18.71,20/07/2019,24.86,,25/07/2019,19.43,1,1,0,,,,0,1,26/07/2019,19.57
+EPR_472,Later termination of pregnancy,TFMR,22.43,01/02/2021,23.57,,01/02/2021,22.43,1,1,0,,,,0,1,04/02/2021,22.86
+EPR_307,Immediate termiation of pregnancy,TFMR,19.43,12/07/2020,19.57,,,,,0,0,,,,0,,,
+EPR_452,Immediate termiation of pregnancy,TFMR,17.43,05/12/2020,17.57,,,,,0,1,,,,0,,,
+EPR_349,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,21.29,18/07/2020,.,,,,,0,1,22/07/2020,4,,1,0,,
+EPR_484,Later termination of pregnancy,TFMR,16.43,20/02/2021,17.14,,21/02/2021,16.57,1,1,,,,,0,1,21/02/2021,16.57
+EPR_060,Later termination of pregnancy,TFMR,-6228.86,14/10/2019,22.43,,14/10/2019,21.43,1,1,0,,,,0,0,,
+EPR_142,Immediate termiation of pregnancy,TFMR,16.57,27/12/2019,17.14,,28/12/2019,16.71,1,1,0,,,,0,,,
+EPR_264,Immediate termiation of pregnancy,TFMR,16.86,20/02/2020,17.57,,,,,0,0,,,,0,,,
+EPR_019,Immediate termiation of pregnancy,TFMR,18.71,09/09/2019,19.29,,10/09/2019,18.86,1,1,0,,,,0,,,
+EPR_442,Immediate termiation of pregnancy,TFMR,16.57,28/11/2020,17.00,,,,,0,0,,,,0,,,
+EPR_231,Immediate termiation of pregnancy,TFMR,18.86,04/02/2020,19.14,,04/02/2020,18.86,1,1,0,,,,0,,,
+EPR_544,Later termination of pregnancy,TFMR,21.14,03/12/2020,21.29,,03/12/2020,21.14,1,1,1,03/12/2020,0,,1,0,,
+EPR_221,Immediate termiation of pregnancy,TFMR,20.29,13/04/2020,20.71,,13/04/2020,20.29,1,1,0,,,,0,,,
+EPR_139,Immediate termiation of pregnancy,TFMR,18.29,07/01/2020,18.86,,08/01/2020,18.43,1,1,0,,,,0,,,
+EPR_279,Later termination of pregnancy,TFMR,19.00,08/03/2020,21.57,,11/03/2020,19.43,1,1,0,,,,0,1,11/03/2020,19.43
+EPR_171,Immediate termiation of pregnancy,TFMR,18.14,19/08/2019,19.43,,22/08/2019,18.57,1,2,0,,,,0,,,
+EPR_308,Later termination of pregnancy,TFMR,19.29,30/06/2020,20.57,,06/07/2020,20.14,1,1,1,09/07/2020,9,,0,1,06/07/2020,20.14
+EPR_476,Later termination of pregnancy,TFMR,16.71,18/01/2021,16.86,,,,,0,1,18/01/2021,0,,0,0,,
+EPR_086,Later termination of pregnancy,TFMR,16.71,27/11/2019,17.14,,,,,0,1,29/11/2019,2,,0,1,27/11/2019,16.71
+EPR_514,Immediate termiation of pregnancy,TFMR,17.00,13/02/2021,17.86,,17/02/2021,17.57,1,1,,,,,0,,,
+EPR_262,Later termination of pregnancy,TFMR,19.86,11/03/2020,25.43,,11/03/2020,19.86,1,1,0,,,,0,1,11/03/2020,19.86
+EPR_523,Immediate termiation of pregnancy,TFMR,18.71,08/02/2021,19.14,,,,,0,0,,,,0,,,
+EPR_146,Immediate termiation of pregnancy,TFMR,17.43,13/01/2020,17.86,,,,,0,0,,,,0,,,
+EPR_293,Later termination of pregnancy,TFMR,17.86,02/06/2020,18.14,,03/06/2020,18.00,1,1,1,04/06/2020,2,,0,0,,
+EPR_261,Later termination of pregnancy,TFMR,17.00,11/11/2019,18.29,,11/11/2019,17.00,1,1,1,18/11/2019,7,,0,1,14/11/2019,17.43
+EPR_025,Later termination of pregnancy,TFMR,17.86,11/11/2020,19.71,,11/11/2020,17.86,1,1,0,,,,0,1,17/11/2020,18.71
+EPR_214,Immediate termiation of pregnancy,TFMR,17.00,23/03/2020,17.29,,23/03/2020,17.00,1,1,1,25/03/2020,2,,0,,,
+EPR_414,Immediate termiation of pregnancy,TFMR,17.29,17/04/2020,17.57,,,,,0,1,17/04/2020,0,,0,,,
+EPR_043,Immediate termiation of pregnancy,TFMR,21.43,27/10/2019,21.71,,,,,0,0,,,,0,,,
+EPR_394,Immediate termiation of pregnancy,TFMR,22.14,04/04/2020,22.14,,,,,0,0,,,,0,,,
+EPR_145,Immediate termiation of pregnancy,TFMR,16.29,09/01/2020,17.29,,,,,0,0,,,,0,,,
+EPR_417,Later termination of pregnancy,TFMR,19.57,30/03/2020,19.71,,,,,0,1,30/03/2020,0,,1,0,,
+EPR_007,Later termination of pregnancy,TFMR,19.29,14/09/2019,.,,15/09/2019,19.43,1,1,,,,,0,,,
+EPR_065,Immediate termiation of pregnancy,TFMR,19.57,19/09/2019,19.57,,,,,0,0,,,,0,,,
+EPR_021,Later termination of pregnancy,TFMR,16.14,27/09/2019,19.29,,,,,0,1,19/10/2019,22,,0,0,,
+EPR_532,Immediate termiation of pregnancy,TFMR,17.00,04/11/2021,17.29,,,,,0,0,,,,0,,,
+EPR_301,Immediate termiation of pregnancy,TFMR,17.71,20/06/2020,17.71,,,,,0,0,,,,0,,,
+EPR_518,Immediate termiation of pregnancy,TFMR,18.86,20/12/2020,.,,23/12/2020,19.29,1,1,0,,,,0,,,
+EPR_232,Immediate termiation of pregnancy,TFMR,18.71,17/02/2020,19.00,,17/02/2020,18.71,1,1,0,,,,0,,,
+EPR_520,Immediate termiation of pregnancy,TFMR,17.14,09/04/2020,.,,,,,0,0,,,,0,,,
+EPR_531,Immediate termiation of pregnancy,TFMR,16.00,09/08/2021,18.29,,,,,0,0,,,,0,,,
+EPR_153,Immediate termiation of pregnancy,TFMR,21.00,16/01/2020,21.57,,16/01/2020,21.00,1,1,0,,,,0,,,
+EPR_068,Immediate termiation of pregnancy,TFMR,21.00,13/10/2019,21.14,,13/10/2019,21.00,1,1,0,,,,0,,,
+EPR_352,Immediate termiation of pregnancy,TFMR,18.29,29/08/2020,18.43,,29/08/2020,18.29,1,1,1,29/08/2020,0,,1,,,
+EPR_445,Immediate termiation of pregnancy,TFMR,20.00,08/08/2020,20.00,,,,,0,0,,,,0,,,
+EPR_284,Immediate termiation of pregnancy,TFMR,17.00,05/11/2019,22.71,,,,,0,0,,,,0,,,
+EPR_297,Immediate termiation of pregnancy,TFMR,17.14,07/05/2020,21.14,,29/05/2020,20.29,1,1,0,,,,0,,,
+EPR_058,Immediate termiation of pregnancy,TFMR,18.00,01/09/2019,18.43,,,,,0,0,,,,0,,,
+EPR_266,Immediate termiation of pregnancy,TFMR,17.57,18/05/2020,.,,18/05/2020,17.57,1,1,0,,,,1,,,
+EPR_149,Later termination of pregnancy,TFMR,22.29,09/01/2020,22.43,,,,,0,1,08/01/2020,0,,0,0,,
+EPR_340,Immediate termiation of pregnancy,TFMR,21.57,12/05/2020,21.86,,,,,0,,,,,0,,,
+EPR_115,Immediate termiation of pregnancy,TFMR,19.29,15/12/2019,19.57,,,,,0,1,16/12/2019,1,,0,,,
+EPR_181,Later termination of pregnancy,TFMR,18.14,24/02/2020,18.71,,,,,0,0,,,,0,0,,
+EPR_283,Later termination of pregnancy,TFMR,17.29,09/12/2019,20.14,,,,,0,0,,,,0,1,09/12/2019,17.29
+EPR_519,Later termination of pregnancy,TFMR,16.43,01/01/2021,16.86,,01/01/2021,16.43,1,1,1,01/01/2021,0,,0,0,,
+EPR_041,Immediate termiation of pregnancy,TFMR,17.86,11/10/2019,18.00,,,,,0,0,,,,0,,,
+EPR_038,Later termination of pregnancy,TFMR,21.71,13/10/2019,22.29,,,,,0,,,,,0,,,
+EPR_444,Immediate termiation of pregnancy,TFMR,18.14,18/07/2020,18.14,,,,,0,0,,,,0,,,
+EPR_389,Immediate termiation of pregnancy,TFMR,17.71,11/10/2020,17.86,,11/10/2020,17.71,1,1,,,,,0,,,
+EPR_496,Immediate termiation of pregnancy,TFMR,16.29,10/02/2021,17.57,,17/02/2021,17.29,1,1,0,,,,0,,,
+EPR_044,Immediate termiation of pregnancy,TFMR,20.29,05/10/2019,20.43,,05/10/2019,20.29,1,1,1,06/10/2019,1,,0,,,
+EPR_275,Immediate termiation of pregnancy,TFMR,21.14,06/06/2020,21.29,,,,,0,0,,,,0,,,
+EPR_482,Later termination of pregnancy,TFMR,17.29,08/02/2021,17.43,,,,,0,,,,,0,0,,
+EPR_436,Immediate termiation of pregnancy,TFMR,16.71,22/03/2020,16.86,,,,,0,0,,,,0,,,
+EPR_413,Later termination of pregnancy,TFMR,19.57,05/12/2020,19.71,,,,,0,0,,,,0,0,,
+EPR_331,Later termination of pregnancy,TFMR,21.57,16/07/2020,22.57,,16/07/2020,21.57,1,1,0,,,,0,0,,
+EPR_147,Later termination of pregnancy,TFMR,18.00,18/01/2020,18.71,,18/01/2020,18.00,1,1,1,20/01/2020,2,,0,0,,
+EPR_474,Later termination of pregnancy,TFMR,22.14,11/01/2021,22.43,22.29,12/01/2021,22.29,1,1,0,,,,0,0,,
+EPR_003,Later termination of pregnancy,TFMR,17.43,15/09/2019,17.86,,,,,0,0,,,,0,0,,
+EPR_539,Immediate termiation of pregnancy,TFMR,21.57,22/02/2021,22.29,,,,,0,0,,,,0,,,
+EPR_008,Immediate termiation of pregnancy,TFMR,20.86,16/08/2019,21.86,,,,,0,0,,,,0,,,
+EPR_286,Immediate termiation of pregnancy,TFMR,20.00,30/05/2020,20.43,,,,,0,1,02/06/2020,3,,0,,,
+EPR_287,Pregnancy loss under 22 weeks,TFMR,17.43,22/06/2020,17.57,,22/06/2020,17.43,1,1,1,23/06/2020,1,,1,0,,
+EPR_285,Later termination of pregnancy,TFMR,-6223.00,06/09/2019,22.57,,06/09/2019,21.86,1,1,0,,,,0,0,,
+EPR_164,Later termination of pregnancy,TFMR,18.86,16/01/2020,20.71,,16/01/2020,18.86,1,1,0,,,,0,1,18/01/2020,19.14
+EPR_042,Later termination of pregnancy,TFMR,20.43,28/10/2019,20.86,,,,,0,0,,,,0,0,,
+EPR_378,Immediate termiation of pregnancy,TFMR,20.00,17/09/2020,20.29,,17/09/2020,20.00,1,1,0,,,,0,,,
+EPR_534,Immediate termiation of pregnancy,TFMR,16.14,27/11/2020,16.57,,27/11/2020,16.14,1,1,0,,,,0,,,
+EPR_094,Immediate termiation of pregnancy,TFMR,-6223.71,04/09/2019,21.14,,,,,0,,,,,0,,,
+EPR_002,Pregnancy loss under 22 weeks,TFMR,20.43,18/09/2019,20.57,,18/09/2019,20.43,,0,0,,,,1,0,,
+EPR_456,Immediate termiation of pregnancy,TFMR,21.71,28/11/2020,21.86,,,,,0,0,,,,0,,,
+EPR_485,Pregnancy loss under 22 weeks,TFMR,17.86,09/02/2021,20.00,,,,,0,1,,,,1,0,,
+EPR_207,Immediate termiation of pregnancy,TFMR,18.71,12/02/2020,19.00,,,,,0,,,,,0,,,
+EPR_480,Later termination of pregnancy,TFMR,22.71,03/01/2021,23.29,22.71,03/01/2021,22.71,1,1,1,06/01/2021,3,,0,0,,
+EPR_280,Immediate termiation of pregnancy,TFMR,16.71,05/05/2020,16.86,,,,,0,0,,,,0,,,
+EPR_412,Later termination of pregnancy,TFMR,16.29,06/11/2020,18.71,,06/11/2020,16.29,1,1,0,,,,0,1,07/11/2020,16.43
+EPR_345,Later termination of pregnancy,TFMR,16.29,13/08/2020,17.14,,15/08/2020,16.57,1,1,0,,,,0,1,13/08/2020,16.29
+EPR_255,Immediate termiation of pregnancy,TFMR,16.14,05/04/2020,16.57,,05/04/2020,16.14,1,1,0,,,,0,,,
+EPR_432,Immediate termiation of pregnancy,TFMR,21.86,15/02/2020,21.86,,,,,0,0,,,,0,,,
+EPR_102,Later termination of pregnancy,TFMR,21.57,20/11/2019,22.57,,23/11/2019,22.00,1,1,1,26/11/2019,6,,0,0,,
+EPR_122,Later termination of pregnancy,TFMR,19.14,31/12/2019,19.57,,31/12/2019,19.14,1,1,0,,,,0,0,,
+EPR_454,Later termination of pregnancy,TFMR,22.29,29/12/2020,22.57,22.29,29/12/2020,22.29,1,2,1,31/12/2020,2,,0,0,,
+EPR_282,Later termination of pregnancy,TFMR,18.86,10/03/2020,19.86,,,,,0,0,,,,1,1,10/03/2020,18.86
+EPR_419,Later termination of pregnancy,TFMR,22.29,13/03/2020,22.86,,14/03/2020,22.43,1,1,,,,,0,0,,
+EPR_249,Immediate termiation of pregnancy,TFMR,16.86,15/04/2020,16.86,,14/04/2020,16.71,,1,0,,,,0,,,
+EPR_315,Later termination of pregnancy,TFMR,20.14,01/04/2020,21.29,,03/04/2020,20.43,1,1,1,08/04/2020,7,,0,1,03/04/2020,20.43
+EPR_201,Immediate termiation of pregnancy,TFMR,18.86,02/03/2020,19.14,,03/03/2020,19.00,1,1,0,,,,0,,,
+EPR_157,Pregnancy loss under 22 weeks,Spontaneous pregnancy loss,20.57,03/02/2020,20.86,,03/02/2020,20.57,1,1,0,,,,1,0,,
+EPR_533,Immediate termiation of pregnancy,TFMR,18.86,22/11/2020,19.14,,,,,0,0,,,,0,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,50,Singleton sepsis 2 days or more,26,,,,,
+,,,,,,,,,,,50,Singleton sepsis 1 day or less,22,,,153,,
+,,,,,,,,,,,0,Singleton sepsis unknown time occur to sepsis unknown,2,,,,,
+,,,,,,,,,,,,Singleton sepsis 1 day or less,15,,,,,
+,,,,,,,,,,,,,,,,#REF!,,
+,,,,,,,,,,,,,,,,#REF!,,
+,,,,,,,,,,,,twin initial TFMR sepsis,0,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,twin initial TFMR indiction infection,0,,,#REF!,,
+,,,,,,,,,,,,,,,,#REF!,,
+,,,,,,,,,,,,twin later TFMR indiction infection,0,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,#REF!,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,#REF!,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,#REF!,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,#REF!,,
