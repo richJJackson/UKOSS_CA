@@ -120,19 +120,22 @@ names(data67)[14] <- "pa"
 data125$pa <- factor(data125$pa,labels=c("None","Eryth.","IV","Alternative"))
 data125$pa2 <- factor(data125$pa,labels=c("None","Anti","Anti","Anti"))
 data125$pa3 <- factor(data125$pa,labels=c(0,1,1,1))
+data125$pa4 <- factor(data125$pa,labels=c(0,1,NA,NA))
 
 data3$pa <- factor(data3$pa,labels=c("None","Eryth.","IV","Alternative"))
 data3$pa2 <- factor(data3$pa,labels=c("None","Anti","Anti","Anti"))
 data3$pa3 <- factor(data3$pa,labels=c(0,1,1,1))
-
+data3$pa4 <- factor(data3$pa,labels=c(0,1,NA,NA))
 
 data4$pa <- factor(data4$pa,labels=c("None","Eryth.","IV","Alternative"))
 data4$pa2 <- factor(data4$pa,labels=c("None","Anti","Anti","Anti"))
 data4$pa3 <- factor(data4$pa,labels=c(0,1,1,1))
+data4$pa4 <- factor(data4$pa,labels=c(0,1,NA,NA))
 
 data67$pa <- factor(data67$pa,labels=c("None","Eryth.","IV","Alternative"))
 data67$pa2 <- factor(data67$pa,labels=c("None","Anti","Anti","Anti"))
 data67$pa3 <- factor(data67$pa,labels=c(0,1,1,1))
+data67$pa4 <- factor(data67$pa,labels=c(0,1,NA,NA))
 
 
 
@@ -175,6 +178,9 @@ prop.cov.67$simpleEthnicity[which(prop.cov.67$simpleEthnicity=="")] <- "Other"
 prop.cov.67$simpleEthnicity <- factor(prop.cov.67$simpleEthnicity,labels=c("Other","Other","Other","Other","White"))
 
 
+
+
+
 ####################################################################
 ####################################################################
 ######### Question 1
@@ -186,13 +192,15 @@ step.mod <- step(ps.mod,direction="backward",k=6)
 summary(step.mod)
 
 ps <- fitted(step.mod)
-mod.data <- data.frame("out"=data125$Woman.sick,"pa3"=data125$pa3,"ps"=ps)
+mod.data <- data.frame("out"=data125$Woman.sick,"pa3"=data125$pa3,"pa4"=data125$pa4,"ps"=ps)
 
 mod.data$ps2 <- 1- mod.data$ps
 mod.data$w <- mod.data$ps*(as.numeric(mod.data$pa3)-1) + mod.data$ps2*(2-as.numeric(mod.data$pa3))
 
 null.mod <- glm(out~pa3,data=mod.data,family="binomial")
 psa.mod <- glm(out~pa3,data=mod.data,family="binomial",weight=1/w)
+sen.mod.1 <- glm(out~pa4,data=mod.data,family="binomial",weight=1/w)
+
 
 ### plot results
 tb1 <- percTable(data125$Woman.sick,data125$pa2,row=F)
@@ -215,6 +223,8 @@ colnames(mod.res) <-c("c1","c2","c3")
 
 res_1 <- rbind(nmt,tb.res,"",nmm,mod.res)
 
+res_1
+
 
 
 ####################################################################
@@ -223,16 +233,16 @@ res_1 <- rbind(nmt,tb.res,"",nmm,mod.res)
 
 data125[1:3,]
 
-mod.data <- data.frame("out"=data125$Liverbirth.or.not..1.livebirth.0.not.,"pa3"=data125$pa3,"ps"=ps)
+mod.data <- data.frame("out"=data125$Liverbirth.or.not..1.livebirth.0.not.,"pa3"=data125$pa3,"pa4"=data125$pa4,"ps"=ps)
 mod.data$ps2 <- 1- mod.data$ps
 mod.data$w <- mod.data$ps*(as.numeric(mod.data$pa3)-1) + mod.data$ps2*(2-as.numeric(mod.data$pa3))
-mod.data[1:3,]
 
 null.mod <- glm(out~pa3,data=mod.data,family="binomial")
 psa.mod <- glm(out~pa3,data=mod.data,family="binomial",weight=1/w)
+sen.mod.2 <- glm(out~pa4,data=mod.data,family="binomial",weight=1/w)
 
 ### plot results
-tb1 <- percTable(data125$Woman.sick,data125$pa2,row=F)
+tb1 <- percTable(data125$Liverbirth.or.not..1.livebirth.0.not.,data125$pa2,row=F)
 tb2.1 <- tapply(mod.data$ps,mod.data$pa3,summ.mean,se=F)
 tb2.2 <- summ.mean(mod.data$ps)
 
@@ -252,6 +262,9 @@ colnames(mod.res) <-c("c1","c2","c3")
 
 res_2 <- rbind(nmt,tb.res,"",nmm,mod.res)
 
+
+res_2
+
 ####################################################################
 ####################################################################
 ######### Question 3
@@ -261,13 +274,14 @@ ps.mod <- glm(data3$pa3~.,data=prop.cov.3,family="binomial")
 step.mod <- step(ps.mod,direction="backward",k=6)
 
 ps <- fitted(step.mod)
-mod.data <- data.frame("out"=data3$Woman.sick,"pa3"=data3$pa3,"ps"=ps)
+mod.data <- data.frame("out"=data3$Woman.sick,"pa3"=data3$pa3,"pa4"=data3$pa4,"ps"=ps)
 
 mod.data$ps2 <- 1- mod.data$ps
 mod.data$w <- mod.data$ps*(as.numeric(mod.data$pa3)-1) + mod.data$ps2*(2-as.numeric(mod.data$pa3))
 
 null.mod <- glm(out~pa3,data=mod.data,family="binomial")
 psa.mod <- glm(out~pa3,data=mod.data,family="binomial",weight=1/w)
+sen.mod.3 <- glm(out~pa4,data=mod.data,family="binomial",weight=1/w)
 
 ### plot results
 tb1 <- percTable(data3$Woman.sick,data3$pa2,row=F)
@@ -302,13 +316,14 @@ ps.mod <- glm(data4$pa3~.,data=prop.cov.4,family="binomial")
 step.mod <- step(ps.mod,direction="backward",k=6)
 
 ps <- fitted(step.mod)
-mod.data <- data.frame("out"=data4$Liverbirth.or.not..1.livebirth.0.not.,"pa3"=data4$pa3,"ps"=ps)
+mod.data <- data.frame("out"=data4$Liverbirth.or.not..1.livebirth.0.not.,"pa3"=data4$pa3,"pa4"=data4$pa4,"ps"=ps)
 
 mod.data$ps2 <- 1- mod.data$ps
 mod.data$w <- mod.data$ps*(as.numeric(mod.data$pa3)-1) + mod.data$ps2*(2-as.numeric(mod.data$pa3))
 
 null.mod <- glm(out~pa3,data=mod.data,family="binomial")
 psa.mod <- glm(out~pa3,data=mod.data,family="binomial",weight=1/w)
+sen.mod.4 <- glm(out~pa4,data=mod.data,family="binomial",weight=1/w)
 
 ### plot results
 tb1 <- percTable(data4$Liverbirth.or.not..1.livebirth.0.not.,data4$pa2,row=F)
@@ -341,14 +356,14 @@ data4[1:3,1:10]
 
 data4$out2 <- data4$Woman.sick==0&data4$Liverbirth.or.not..1.livebirth.0.not.==1
 
-
-mod.data <- data.frame("out"=data4$out2,"pa3"=data4$pa3,"ps"=ps)
+mod.data <- data.frame("out"=data4$out2,"pa3"=data4$pa3,"pa4"=data4$pa4,"ps"=ps)
 
 mod.data$ps2 <- 1- mod.data$ps
 mod.data$w <- mod.data$ps*(as.numeric(mod.data$pa3)-1) + mod.data$ps2*(2-as.numeric(mod.data$pa3))
 
 null.mod <- glm(out~pa3,data=mod.data,family="binomial")
 psa.mod <- glm(out~pa3,data=mod.data,family="binomial",weight=1/w)
+sen.mod.4.2 <- glm(out~pa4,data=mod.data,family="binomial",weight=1/w)
 
 ### plot results
 tb1 <- percTable(data4$out2,data4$pa2,row=F)
@@ -378,13 +393,22 @@ res_4.2
 ######### Question 5
 
 
+### propensity socre
+ps.mod <- glm(data125$pa3~.,data=prop.cov,family="binomial")
 
-mod.data <- data.frame("out"=data125$Whole.pregnancy.outcome..mum.sepsis.free.and.livebirth.,"pa3"=data125$pa3,"ps"=ps)
+step.mod <- step(ps.mod,direction="backward",k=6)
+summary(step.mod)
+
+ps <- fitted(step.mod)
+
+mod.data <- data.frame("out"=data125$Whole.pregnancy.outcome..mum.sepsis.free.and.livebirth.,
+                       "pa3"=data125$pa3,"pa4"=data125$pa4,"ps"=ps)
 mod.data$ps2 <- 1- mod.data$ps
 mod.data$w <- mod.data$ps*(as.numeric(mod.data$pa3)-1) + mod.data$ps2*(2-as.numeric(mod.data$pa3))
 
 null.mod <- glm(out~pa3,data=mod.data,family="binomial")
 psa.mod <- glm(out~pa3,data=mod.data,family="binomial",weight=1/w)
+sen.mod.5 <- glm(out~pa4,data=mod.data,family="binomial",weight=1/w)
 
 ### plot results
 tb1 <- percTable(data125$Woman.sick,data125$pa2,row=F)
@@ -422,13 +446,14 @@ step.mod <- step(ps.mod,direction="backward",k=6)
 data67[1:3,1:10]
 
 ps <- fitted(step.mod)
-mod.data <- data.frame("out"=data67$Mum.well.and.baby.survive.to.discharge,"pa3"=data67$pa3,"ps"=ps)
+mod.data <- data.frame("out"=data67$Mum.well.and.baby.survive.to.discharge,"pa3"=data67$pa3,"pa4"=data67$pa4,"ps"=ps)
 
 mod.data$ps2 <- 1- mod.data$ps
 mod.data$w <- mod.data$ps*(as.numeric(mod.data$pa3)-1) + mod.data$ps2*(2-as.numeric(mod.data$pa3))
 
 null.mod <- glm(out~pa3,data=mod.data,family="binomial")
 psa.mod <- glm(out~pa3,data=mod.data,family="binomial",weight=1/w)
+sen.mod.6 <- glm(out~pa4,data=mod.data,family="binomial",weight=1/w)
 
 ### plot results
 tb1 <- percTable(data67$Mum.well.and.baby.survive.to.discharge,data67$pa2,row=F)
@@ -457,12 +482,16 @@ res_6
 ####################################################################
 ######### Question 7
 
-mod.data <- data.frame("out"=data67$Mum.well.and.baby.without.major.morbidity.at.discharge,"pa3"=data67$pa3,"ps"=ps)
+mod.data <- data.frame("out"=data67$Mum.well.and.baby.without.major.morbidity.at.discharge,
+                       "pa3"=data67$pa3,"pa4"=data67$pa4,"ps"=ps)
+
 mod.data$ps2 <- 1- mod.data$ps
 mod.data$w <- mod.data$ps*(as.numeric(mod.data$pa3)-1) + mod.data$ps2*(2-as.numeric(mod.data$pa3))
 
 null.mod <- glm(out~pa3,data=mod.data,family="binomial")
 psa.mod <- glm(out~pa3,data=mod.data,family="binomial",weight=1/w)
+sen.mod.7 <- glm(out~pa4,data=mod.data,family="binomial",weight=1/w)
+
 
 ### plot results
 tb1 <- percTable(data67$Mum.well.and.baby.without.major.morbidity.at.discharge,data67$pa2,row=F)
@@ -487,6 +516,15 @@ res_7 <- rbind(nmt,tb.res,"",nmm,mod.res)
 
 
 
-library(knitr)
-kable(res_4.2)
 
+######## sensitivity analysis (erythromycin only)
+
+sen.res <- rbind(summLogistic(sen.mod.1)[2,],summLogistic(sen.mod.2)[2,],
+                 summLogistic(sen.mod.3)[2,],summLogistic(sen.mod.4)[2,],
+                 summLogistic(sen.mod.4.2)[2,],summLogistic(sen.mod.5)[2,],
+                 summLogistic(sen.mod.6)[2,],summLogistic(sen.mod.7)[2,])
+
+kable(sen.res)
+
+
+############ pro
